@@ -6,10 +6,11 @@ GoSafe is a **safety-focused Flutter application** designed to enhance public se
 
 ## 📌 Features
 ✅ **Real-time Crime Reports** – Users can report and view crime reports in different areas.  
-✅ **Safest Route Finder** – Uses **OSRM, OSM ** to determine the safest route.  
+✅ **Safest Route Finder** – Uses OSRM, OSM to determine the safest route.  
 ✅ **CCTV Integration** – Live surveillance data for better security insights.  
-✅ **Emergency Contacts** – Quick access to police and emergency contacts.  
+✅ **Emergency Contacts** – Allows users to instantly connect with predefined emergency contacts or services.
 ✅ **Voice Assistant Integration** – Hands-free operation for accessibility.  
+✅ Live Location Services Utilizes device GPS to determine the user's current position and ensure accurate navigation.
 
 ---
 
